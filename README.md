@@ -15,8 +15,6 @@ npm install --save pure-can-component
 ```jsx
 import React, { Component } from 'react'
 
-import React, { Component } from "react";
-
 import Can from "pure-can-component";
 
 export default class App extends Component {
