@@ -1,7 +1,7 @@
-import ExampleComponent from './'
+import Can from './'
 
 describe('ExampleComponent', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(Can).toBeTruthy()
   })
 })
